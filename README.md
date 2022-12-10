@@ -5,7 +5,7 @@ The idea is to Unlock your pc or your device with a RFID reader using arduino un
 
 First download Arduino IDE here https://www.arduino.cc/en/software
 
-Second, Make sure ti have these:
+Second, Make sure to have these:
 1- Rfid Reader
 2- Jumper wires ( male to female )
 3- Arduino uno
